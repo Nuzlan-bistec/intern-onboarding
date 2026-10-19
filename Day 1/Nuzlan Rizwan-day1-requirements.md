@@ -143,15 +143,15 @@ OPERATION ADMIN
 
 
 (5) Assumptions
-Students must create an account before booking a tutoring session.
+* Students must create an account before booking a tutoring session.
 
-Tutors must submit their qualifications for verification before their profiles are approved.
+* Tutors must submit their qualifications for verification before their profiles are approved.
 
-Students need a stable internet connection and a compatible device to attend online sessions.
+* Students need a stable internet connection and a compatible device to attend online sessions.
 
-Students can book a tutor only if the selected time slot is available.
+* Students can book a tutor only if the selected time slot is available.
 
-If a payment fails, the booking will remain unconfirmed until the payment is completed.
+* If a payment fails, the booking will remain unconfirmed until the payment is completed.
 
 
 
