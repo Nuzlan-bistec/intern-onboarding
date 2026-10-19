@@ -132,7 +132,7 @@ OPERATION ADMIN
 |Performance|Tutor search response time|Under 800 ms for 95% of searches|Run search performance tests|
 |Availability|Booking endpoint uptime|99.5% per month|Monitor endpoint uptime|
 |Security|Payment card data storage|No card data stored on LearnLanka servers|Review database and payment integration|
-|Scalability|Simultaneous video sessions|2000 sessions|Run a load test with 200 concurrent sessions|
+|Scalability|Simultaneous video sessions|2000 sessions|Run a load test with 2000 concurrent sessions|
 
 
 
