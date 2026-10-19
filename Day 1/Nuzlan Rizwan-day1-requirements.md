@@ -143,17 +143,25 @@ OPERATION ADMIN
 
 
 (5) Assumptions
+Students must create an account before booking a tutoring session.
 
-\- An integrated Learning Management System (LMS) for students, including tutorials, notes, and books provided by tutors.
-\-A feature allowing tutors to access their session history for up to two years.
-\-A feature allowing students to access their past booked-session history for up to two months.
-\-Free trial sessions before booking a paid tutoring session.
+Tutors must submit their qualifications for verification before their profiles are approved.
+
+Students need a stable internet connection and a compatible device to attend online sessions.
+
+Students can book a tutor only if the selected time slot is available.
+
+If a payment fails, the booking will remain unconfirmed until the payment is completed.
+
 
 
 
 &#x09;(6) Out of Scope
 
-\- What you are explicitly NOT building in this version
+* An integrated Learning Management System (LMS) for students, including tutorials, notes, and books provided by tutors.
+* A feature allowing tutors to access their session history for up to two years.
+* A feature allowing students to access their past booked-session history for up to two months.
+* Free trial sessions before booking a paid tutoring session.
 
 
 
