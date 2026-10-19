@@ -144,7 +144,10 @@ OPERATION ADMIN
 
 (5) Assumptions
 
-\- Numbered list of every assumption you made because the brief was silent
+\- An integrated Learning Management System (LMS) for students, including tutorials, notes, and books provided by tutors.
+\-A feature allowing tutors to access their session history for up to two years.
+\-A feature allowing students to access their past booked-session history for up to two months.
+\-Free trial sessions before booking a paid tutoring session.
 
 
 
