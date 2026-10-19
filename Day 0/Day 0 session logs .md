@@ -57,8 +57,8 @@
 
 
 
-Day 0 > when you're stuck and when you feel like you need the support from your senior you don't say "I'm Stuck", "i don't know", "there's an error" this will waste both of your time, 	instead there's a proper way to ask a good question in a constructive way that gives the idea to the other person where you're exactly and give a solution or the guide that u 	needed.
-The correct way of asking is in a Method called as CTS which refers to C-Context--> What are you trying to do , T-Tried-->What you tried by yourself , S-Stuck--> Where it went 	wrong.
+Day 0 > when you're stuck and when you feel like you need the support from your senior you don't say "I'm Stuck", "i don't know", "there's an error" this will            waste both of your time, 	instead there's a proper way to ask a good question in a constructive way that gives the idea to the other person where you're          exactly and give a solution or the guide that u 	needed.
+        The correct way of asking questions is in a Method called as CTS which refers to C-Context--> What are you trying to do , T-Tried-->What you tried by             yourself , S-Stuck--> Where it went wrong.
 
 
 
@@ -88,7 +88,7 @@ The correct way of asking is in a Method called as CTS which refers to C-Context
 
 
 
-\--------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------
 
 
 
